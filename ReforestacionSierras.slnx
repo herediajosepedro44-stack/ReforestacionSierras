@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ReforestacionSierras.BA/ReforestacionSierras.BA.csproj" />
+  <Project Path="ReforestacionSierras.FE/ReforestacionSierras.FE.csproj" />
+</Solution>
